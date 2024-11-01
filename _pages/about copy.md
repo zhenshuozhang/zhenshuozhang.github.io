@@ -36,12 +36,24 @@ I am a Ph.D. student in Northeastern University starting from fall 2024, supervi
 </div
 
 
-
 - [GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645439), Yun Zhu, Yaoke Wang, Haizhou Shi, `**`Zhenshuo Zhang `**`, Dian Jiao, Siliang Tang, **WWW 2024**
 - [MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645322), Yun Zhu, Haizhou Shi, `**`Zhenshuo Zhang `**`, Siliang Tang, **WWW 2024**
 
+# 🎖 Honors and Awards
+
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
 # 📖 Educations
 
-- *2024.09 - now*, Northeastern University
-- *2021.09 - 2024.03*, Zhejiang University
-- *2017.09 - 2021.06*, Zhejiang University
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+# 💬 Invited Talks
+
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Internships
+
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
