@@ -25,6 +25,9 @@ I am a Ph.D. student in Northeastern University starting from fall 2024, supervi
 
 # 📝 Publications
 
+- [GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645439), Yun Zhu, Yaoke Wang, Haizhou Shi, **Zhenshuo Zhang**, Dian Jiao, Siliang Tang, **WWW 2024**
+- [MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645322), Yun Zhu, Haizhou Shi, **Zhenshuo Zhang**, Siliang Tang, **WWW 2024**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2023</div><img src='images/avge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,13 +36,8 @@ I am a Ph.D. student in Northeastern University starting from fall 2024, supervi
 **Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang
 
 </div>
-</div>
+</di
 
-
-
-
-- [GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645439), Yun Zhu, Yaoke Wang, Haizhou Shi, **Zhenshuo Zhang**, Dian Jiao, Siliang Tang, **WWW 2024**
-- [MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645322), Yun Zhu, Haizhou Shi, **Zhenshuo Zhang**, Siliang Tang, **WWW 2024**
 
 # 📖 Educations
 
