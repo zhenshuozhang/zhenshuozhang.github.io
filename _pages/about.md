@@ -35,9 +35,6 @@ I am a Ph.D. student in Northeastern University starting from fall 2024, supervi
 
 **Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang
 
-</div>
-</div>
-
 
 # 📖 Educations
 
