@@ -33,7 +33,7 @@ I am a Ph.D. student in Northeastern University starting from fall 2024, supervi
 
 [Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework](https://arxiv.org/abs/2303.05231)
 
-**Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang
+**Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang, **ECAI 2023**
 
 
 # 📖 Educations
