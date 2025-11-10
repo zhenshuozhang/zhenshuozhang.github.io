@@ -25,20 +25,14 @@ I am a Ph.D. student in Northeastern University starting from fall 2024, supervi
 
 # 📝 Publications
 
+- Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation, **Zhenshuo Zhang**, Minxuan Duan, Youran Ye, Hongyang R. Zhang, AAAI 2026
+- [Linear-Time Demonstration Selection for In-Context Learning via Gradient Estimation](https://aclanthology.org/2025.emnlp-main.832.pdf), Ziniu Zhang*, **Zhenshuo Zhang**\*, Dongyue Li, Lu Wang, Jennifer Dy, Hongyang R. Zhang, EMNLP 2025 (main)
+
+Prior to my Ph.D. study
+
 - [GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645439), Yun Zhu, Yaoke Wang, Haizhou Shi, **Zhenshuo Zhang**, Dian Jiao, Siliang Tang, **WWW 2024**
 - [MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645322), Yun Zhu, Haizhou Shi, **Zhenshuo Zhang**, Siliang Tang, **WWW 2024**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2023</div><img src='images/avge.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework](https://arxiv.org/abs/2303.05231)
-
-**Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang, **ECAI 2023**
-
-</div>
-</div>
-
-
+- [Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework](https://arxiv.org/abs/2303.05231), **Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang, **ECAI 2023**
 
 # 📖 Educations
 
