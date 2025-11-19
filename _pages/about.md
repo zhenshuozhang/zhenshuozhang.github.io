@@ -25,7 +25,7 @@ I am a Ph.D. student in Northeastern University starting from fall 2024, supervi
 
 # 📝 Publications
 
-- Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation, **Zhenshuo Zhang**, Minxuan Duan, Youran Ye, Hongyang R. Zhang, **AAAI 2026**
+- [Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation](https://arxiv.org/abs/2511.12779), **Zhenshuo Zhang**, Minxuan Duan, Youran Ye, Hongyang R. Zhang, **AAAI 2026**
 - [Linear-Time Demonstration Selection for In-Context Learning via Gradient Estimation](https://aclanthology.org/2025.emnlp-main.832.pdf), Ziniu Zhang*, **Zhenshuo Zhang**\*, Dongyue Li, Lu Wang, Jennifer Dy, Hongyang R. Zhang, **EMNLP 2025 (main)**
 
 Prior to my Ph.D. study
