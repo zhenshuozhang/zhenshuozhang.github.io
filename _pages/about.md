@@ -16,14 +16,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Northeastern University starting from fall 2024, supervised by Prof. Hongyang (Ryan) Zhang. Previously, I received the B.Eng. degree from [CS](http://www.en.cs.zju.edu.cn/), [Zhejiang University](http://www.zju.edu.cn/english) in 2021 and M.S. degree from Zhejaing University in 2024. My current research focuses on algorithms in machine learning.
+I am a Ph.D. student in Northeastern University starting from fall 2024, supervised by Prof. Hongyang (Ryan) Zhang. Previously, I received my M.S. degree at Zhejiang University in 2024, supervised by Prof. Siliang Tang. I received the B.Eng. degree at CS, Zhejiang University in 2021. 
 
-# 🔥 News
+My current research focuses on training algorithms in machine learning and data attributions.
+
+#  News
 
 - *2024.09*: &nbsp;I moved to Northeastern Univserisity as a PhD student.
 - *2024.03*: &nbsp;I graduated from Zhejiang University.
 
-# 📝 Publications
+#  Publications
 
 - Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning, 
 
@@ -51,8 +53,13 @@ Prior to my Ph.D. study
 
   **Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang, **ECAI 2023**
 
-# 📖 Educations
+#  Educations
 
 - *2024.09 - now*, Northeastern University
 - *2021.09 - 2024.03*, Zhejiang University
 - *2017.09 - 2021.06*, Zhejiang University
+
+# Selected Honors and Awards
+
+- Zhejiang Provincial Outstanding Graduate Award, 2024
+- Outstanding Undergraduate Award, Zhejiang University, 2021
