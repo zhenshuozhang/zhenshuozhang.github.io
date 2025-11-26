@@ -22,6 +22,7 @@ My current research focuses on training algorithms in machine learning and data 
 
 # 🔥 News
 
+- *2025.10*: &nbsp;I gave a talk at INFORMS. 
 - *2024.09*: &nbsp;I moved to Northeastern Univserisity as a PhD student.
 - *2024.03*: &nbsp;I graduated from Zhejiang University.
 
