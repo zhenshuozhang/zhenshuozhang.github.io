@@ -16,16 +16,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Northeastern University starting from fall 2024, supervised by Prof. Hongyang (Ryan) Zhang. Previously, I received my M.S. degree at Zhejiang University in 2024, supervised by Prof. Siliang Tang. I received the B.Eng. degree at CS, Zhejiang University in 2021. 
+I am a Ph.D. student in Northeastern University starting from fall 2024, supervised by Prof. Hongyang (Ryan) Zhang. Previously, I received my M.S. degree at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, supervised by Prof. Siliang Tang. I received the B.Eng. degree at CS, Zhejiang University in 2021. 
 
 My current research focuses on training algorithms in machine learning and data attributions.
 
-#  News
+# 🔥 News
 
 - *2024.09*: &nbsp;I moved to Northeastern Univserisity as a PhD student.
 - *2024.03*: &nbsp;I graduated from Zhejiang University.
 
-#  Publications
+# 📝 Publications
 
 - Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning, 
 
@@ -38,6 +38,10 @@ My current research focuses on training algorithms in machine learning and data 
 - [Linear-Time Demonstration Selection for In-Context Learning via Gradient Estimation](https://aclanthology.org/2025.emnlp-main.832.pdf), 
 
   Ziniu Zhang*, **Zhenshuo Zhang**\*, Dongyue Li, Lu Wang, Jennifer Dy, Hongyang R. Zhang, **EMNLP 2025 (main)**
+
+- One-Sided Matrix Completion from Ultra-Sparse Samples,
+
+  Hongyang R Zhang, **Zhenshuo Zhang**, Huy L Nguyen, Guanghui Lan
 
 Prior to my Ph.D. study
 
@@ -53,7 +57,7 @@ Prior to my Ph.D. study
 
   **Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang, **ECAI 2023**
 
-#  Educations
+# 📖 Educations
 
 - *2024.09 - now*, Northeastern University
 - *2021.09 - 2024.03*, Zhejiang University
