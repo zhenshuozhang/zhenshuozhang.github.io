@@ -25,14 +25,31 @@ I am a Ph.D. student in Northeastern University starting from fall 2024, supervi
 
 # 📝 Publications
 
-- [Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation](https://arxiv.org/abs/2511.12779), **Zhenshuo Zhang**, Minxuan Duan, Youran Ye, Hongyang R. Zhang, **AAAI 2026**
-- [Linear-Time Demonstration Selection for In-Context Learning via Gradient Estimation](https://aclanthology.org/2025.emnlp-main.832.pdf), Ziniu Zhang*, **Zhenshuo Zhang**\*, Dongyue Li, Lu Wang, Jennifer Dy, Hongyang R. Zhang, **EMNLP 2025 (main)**
+- Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning, 
+
+  Dongyue Li, **ZhenshuoZhang**, Minxuan Duan, Edgar Dobriban, Hongyang R. Zhang, **KDD 2026**
+
+- [Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation](https://arxiv.org/abs/2511.12779), 
+
+  **Zhenshuo Zhang**, Minxuan Duan, Youran Ye, Hongyang R. Zhang, **AAAI 2026**
+
+- [Linear-Time Demonstration Selection for In-Context Learning via Gradient Estimation](https://aclanthology.org/2025.emnlp-main.832.pdf), 
+
+  Ziniu Zhang*, **Zhenshuo Zhang**\*, Dongyue Li, Lu Wang, Jennifer Dy, Hongyang R. Zhang, **EMNLP 2025 (main)**
 
 Prior to my Ph.D. study
 
-- [GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645439), Yun Zhu, Yaoke Wang, Haizhou Shi, **Zhenshuo Zhang**, Dian Jiao, Siliang Tang, **WWW 2024**
-- [MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645322), Yun Zhu, Haizhou Shi, **Zhenshuo Zhang**, Siliang Tang, **WWW 2024**
-- [Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework](https://arxiv.org/abs/2303.05231), **Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang, **ECAI 2023**
+- [GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645439), 
+
+  Yun Zhu, Yaoke Wang, Haizhou Shi, **Zhenshuo Zhang**, Dian Jiao, Siliang Tang, **WWW 2024**
+
+- [MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3589334.3645322), 
+
+  Yun Zhu, Haizhou Shi, **Zhenshuo Zhang**, Siliang Tang, **WWW 2024**
+
+- [Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework](https://arxiv.org/abs/2303.05231),
+
+  **Zhenshuo Zhang**, Yun Zhu, Haizhou Shi, Siliang Tang, **ECAI 2023**
 
 # 📖 Educations
 
