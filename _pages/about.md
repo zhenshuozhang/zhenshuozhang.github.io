@@ -28,21 +28,35 @@ My current research focuses on training algorithms in machine learning and data 
 
 # 📝 Publications
 
-- Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning, 
+- Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning
 
-  Dongyue Li, **ZhenshuoZhang**, Minxuan Duan, Edgar Dobriban, Hongyang R. Zhang, **KDD 2026**
+  Dongyue Li, **ZhenshuoZhang**, Minxuan Duan, Edgar Dobriban, Hongyang R. Zhang 
 
-- [Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation](https://arxiv.org/abs/2511.12779), 
+  **KDD 2026**
 
-  **Zhenshuo Zhang**, Minxuan Duan, Youran Ye, Hongyang R. Zhang, **AAAI 2026**
 
-- [Linear-Time Demonstration Selection for In-Context Learning via Gradient Estimation](https://aclanthology.org/2025.emnlp-main.832.pdf), 
 
-  Ziniu Zhang*, **Zhenshuo Zhang**\*, Dongyue Li, Lu Wang, Jennifer Dy, Hongyang R. Zhang, **EMNLP 2025 (main)**
+- [Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation](https://arxiv.org/abs/2511.12779)
 
-- One-Sided Matrix Completion from Ultra-Sparse Samples,
+  **Zhenshuo Zhang**, Minxuan Duan, Youran Ye, Hongyang R. Zhang
+
+  AAAI 2026**
+
+
+
+- [Linear-Time Demonstration Selection for In-Context Learning via Gradient Estimation](https://aclanthology.org/2025.emnlp-main.832.pdf)
+
+  Ziniu Zhang*, **Zhenshuo Zhang**\*, Dongyue Li, Lu Wang, Jennifer Dy, Hongyang R. Zhang
+
+  **EMNLP 2025 (main)**
+
+
+
+- One-Sided Matrix Completion from Ultra-Sparse Samples
 
   Hongyang R Zhang, **Zhenshuo Zhang**, Huy L Nguyen, Guanghui Lan
+
+
 
 Prior to my Ph.D. study
 
