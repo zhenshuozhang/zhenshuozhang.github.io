@@ -16,19 +16,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Northeastern University starting from fall 2024, supervised by Prof. [Hongyang (Ryan) Zhang](https://www.hongyangzhang.com/). Previously, I received my M.S. degree at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, supervised by Prof. Siliang Tang. I received the B.Eng. degree at CS, Zhejiang University in 2021. 
+I am a Ph.D. student in Northeastern University starting from fall 2024, supervised by Prof. [Hongyang (Ryan) Zhang](https://www.hongyangzhang.com/). Previously, I received my M.S. degree at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, supervised by Prof. Siliang Tang. I received the B.Eng. degree at CS, [Zhejiang University](https://www.zju.edu.cn/english/) in 2021. 
 
 My current research focuses on training algorithms in machine learning and data attributions.
 
 # 🔥 News
 
 - *2025.10*: &nbsp;I gave a talk at INFORMS. 
-- *2024.09*: &nbsp;I moved to Northeastern Univserisity as a PhD student.
+- *2024.09*: &nbsp;I moved to Northeastern University as a PhD student.
 - *2024.03*: &nbsp;I graduated from Zhejiang University.
 
 # 📝 Publications
 
-- Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning
+- [Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning](https://arxiv.org/abs/2512.01113)
 
   Dongyue Li, **ZhenshuoZhang**, Minxuan Duan, Edgar Dobriban, Hongyang R. Zhang 
 
@@ -40,7 +40,7 @@ My current research focuses on training algorithms in machine learning and data 
 
   **Zhenshuo Zhang**, Minxuan Duan, Youran Ye, Hongyang R. Zhang
 
-  AAAI 2026**
+  **AAAI 2026**
 
 
 
