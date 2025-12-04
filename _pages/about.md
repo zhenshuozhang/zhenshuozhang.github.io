@@ -30,7 +30,7 @@ My current research focuses on training algorithms in machine learning and data 
 
 - [Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning](https://arxiv.org/abs/2512.01113)
 
-  Dongyue Li, **ZhenshuoZhang**, Minxuan Duan, Edgar Dobriban, Hongyang R. Zhang 
+  Dongyue Li, **Zhenshuo Zhang**, Minxuan Duan, Edgar Dobriban, Hongyang R. Zhang 
 
   **KDD 2026**
 
