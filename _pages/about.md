@@ -28,6 +28,14 @@ My current research focuses on training algorithms in machine learning and data 
 
 # 📝 Publications
 
+- Efficient Estimation of Kernel Surrogate Models for Task Attribution
+
+  **Zhenshuo Zhang**, Minxuan Duan, Hongyang R. Zhang
+
+  **ICLR 2026**
+  
+  
+  
 - [Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning](https://arxiv.org/abs/2512.01113)
 
   Dongyue Li, **Zhenshuo Zhang**, Minxuan Duan, Edgar Dobriban, Hongyang R. Zhang 
