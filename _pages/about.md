@@ -28,7 +28,7 @@ My current research focuses on training algorithms in machine learning and data 
 
 # 📝 Publications
 
-- Efficient Estimation of Kernel Surrogate Models for Task Attribution
+- [Efficient Estimation of Kernel Surrogate Models for Task Attribution](https://arxiv.org/abs/2602.03783)
 
   **Zhenshuo Zhang**, Minxuan Duan, Hongyang R. Zhang
 
