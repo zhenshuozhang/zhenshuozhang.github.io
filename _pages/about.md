@@ -60,7 +60,7 @@ My current research focuses on training algorithms in machine learning and data 
 
 
 
-- One-Sided Matrix Completion from Ultra-Sparse Samples
+- [One-Sided Matrix Completion from Ultra-Sparse Samples](https://arxiv.org/abs/2601.12213)
 
   Hongyang R Zhang, **Zhenshuo Zhang**, Huy L Nguyen, Guanghui Lan
   
