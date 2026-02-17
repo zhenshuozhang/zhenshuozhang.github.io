@@ -32,7 +32,7 @@ My current research focuses on training algorithms in machine learning and data 
 
   **Zhenshuo Zhang**, Minxuan Duan, Hongyang R. Zhang
 
-  **ICLR 2026**
+  ***ICLR 2026***
   
   
   
@@ -40,7 +40,7 @@ My current research focuses on training algorithms in machine learning and data 
 
   Dongyue Li, **Zhenshuo Zhang**, Minxuan Duan, Edgar Dobriban, Hongyang R. Zhang 
 
-  **KDD 2026**
+  ***KDD 2026***
 
 
 
@@ -48,7 +48,7 @@ My current research focuses on training algorithms in machine learning and data 
 
   **Zhenshuo Zhang**, Minxuan Duan, Youran Ye, Hongyang R. Zhang
 
-  **AAAI 2026**
+  ***AAAI 2026***
 
 
 
@@ -56,7 +56,7 @@ My current research focuses on training algorithms in machine learning and data 
 
   Ziniu Zhang*, **Zhenshuo Zhang**\*, Dongyue Li, Lu Wang, Jennifer Dy, Hongyang R. Zhang
 
-  **EMNLP 2025 (main)**
+  ***EMNLP 2025 (main)***
 
 
 
@@ -64,7 +64,7 @@ My current research focuses on training algorithms in machine learning and data 
 
   Hongyang R Zhang, **Zhenshuo Zhang**, Huy L Nguyen, Guanghui Lan
   
-  **TMLR**
+  ***TMLR***
 
 
 
