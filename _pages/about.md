@@ -27,6 +27,12 @@ My current research focuses on training algorithms in machine learning and data 
 - *2024.03*: &nbsp;I graduated from Zhejiang University.
 
 # 📝 Publications
+
+- [WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points](https://arxiv.org/abs/2605.17471)
+
+  Dongyue Li, Zechun Liu, Kai Yi, **Zhenshuo Zhang**, Changsheng Zhao, Raghuraman Krishnamoorthi, Harshit Khaitan, Hongyang R. Zhang, Steven Li
+
+  ***ICML 2026***
   
 - [Efficient Estimation of Kernel Surrogate Models for Task Attribution](https://arxiv.org/abs/2602.03783)
 

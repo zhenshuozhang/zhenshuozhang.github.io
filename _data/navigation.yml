@@ -11,3 +11,6 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
+  
+  - title: "CV"
+    url: "/files/CV_ZhenshuoZhang.pdf"
