@@ -16,9 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second year Ph.D. student major in CS at Northeastern University, supervised by Prof. [Hongyang (Ryan) Zhang](https://www.hongyangzhang.com/). Previously, I received my M.S. degree at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, supervised by Prof. Siliang Tang. I received the B.Eng. degree at CS, [Zhejiang University](https://www.zju.edu.cn/english/) in 2021. 
+I am a third-year Ph.D. student majoring in CS at Northeastern University, supervised by Prof. [Hongyang (Ryan) Zhang](https://www.hongyangzhang.com/). Previously, I received my M.S. degree at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, supervised by Prof. Siliang Tang. I received the B.Eng. degree at CS, [Zhejiang University](https://www.zju.edu.cn/english/) in 2021. 
 
-My current research focuses on training algorithms in machine learning and data attributions.
+My current research focuses on training algorithms in machine learning and data attribution.
 
 # 🔥 News
 
