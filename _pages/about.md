@@ -36,7 +36,7 @@ My current research focuses on training algorithms in machine learning and data 
   
   
   
-- Designing Kernel Surrogate Models for Multimodal Attribution
+- Structured Kernel Surrogate Models for Multimodal Attribution
 
   Ziniu Zhang\*, **Zhenshuo Zhang**\*, Jianglin Lu, Ruoxuan Xiong, Yun Fu, Hongyang R. Zhang 
 
