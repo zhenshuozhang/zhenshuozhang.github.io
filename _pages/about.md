@@ -32,7 +32,7 @@ My current research focuses on training algorithms in machine learning and data 
 
   **Zhenshuo Zhang**, Ruoxuan Xiong, Hongyang R. Zhang 
 
-  **Neurips 2026**
+  **NeurIPS 2026**
   
   
   
@@ -40,8 +40,13 @@ My current research focuses on training algorithms in machine learning and data 
 
   Ziniu Zhang\*, **Zhenshuo Zhang**\*, Jianglin Lu, Ruoxuan Xiong, Yun Fu, Hongyang R. Zhang 
 
-  **Neurips 2026**
-  
+  **NeurIPS 2026**
+
+- [Long-Context Demonstration Selection Using State Space Models](https://arxiv.org/abs/2609.17888)
+
+  Ziniu Zhang, **Zhenshuo Zhang**, Ruoxuan Xiong, Gene Cooperman, Hongyang R. Zhang 
+
+  **EMNLP 2026 (findings)**
   
   
 - [WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points](https://arxiv.org/abs/2605.17471)
